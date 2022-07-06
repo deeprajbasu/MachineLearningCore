@@ -1,6 +1,6 @@
 # Machine learning Core numpy
 
-## Polynomial regression with regularizatin 
+## Polynomial regression with regularization 
 
 ###varying the degree of the model 
 
