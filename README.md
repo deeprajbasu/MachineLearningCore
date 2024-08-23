@@ -18,7 +18,8 @@
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/bfs.gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/dfs.gif" width="50%" align='right'>
 
 =============================================================================<br>
-                                                                  iterative deepening
+                                                                  
+                                              iterative deepening
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_1.gif" width="25%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_6.gif" width="25%" align='right'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_11.gif" width="25%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_16.gif" width="25%" align='right'>
 =============================================================================<br>
                                                                     Heuristic search                                                          Frontier search 
