@@ -9,6 +9,10 @@
 
 
 ## AI Search Methods
+                                                                    Multi Agent Search with shared memory
+<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/multi2(1).gif" width="50%" align='center'>
+
+
 =============================================================================<br>
                                                                   bfs and dfs
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/bfs.gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/dfs.gif" width="50%" align='right'>
@@ -30,9 +34,7 @@
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/stochastic.gif" width="25%" align='left'>
 =============================================================================<br>
 
-                                                                    Multi Agent Search with shared memory
-<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/multi2(1).gif" width="25%" align='left'>
-=============================================================================<br>
+
 
 
 
