@@ -9,8 +9,8 @@
 
 
 ## AI Search Methods
-                                                                    Multi Agent Search with shared memory
-<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/multi2(1).gif" width="50%" align='center'>
+                                                                    Multi Agent Search with shared memory, stochastic search
+<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/multi2(1).gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/stochastic.gif" width="50%" align='right'>
 
 
 =============================================================================<br>
@@ -30,9 +30,6 @@
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/frontier.gif" width="50%" align='right'>
 =============================================================================<br>
 
-                                                                    stochastic search
-<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/stochastic.gif" width="50%" align='left'>
-=============================================================================<br>
 
 
 
