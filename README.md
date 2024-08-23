@@ -23,15 +23,15 @@
 
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_11.gif" width="25%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_16.gif" width="25%" align='right'>
 =============================================================================<br>
-                                                                    Heuristic search
+                                                                    Heuristic search                                                          Frontier search 
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/huristic.gif" width="50%" align='left'>
 
-                                                                    Frontier search 
+                                                                    
 <img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/frontier.gif" width="50%" align='right'>
 =============================================================================<br>
 
                                                                     stochastic search
-<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/stochastic.gif" width="25%" align='left'>
+<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/stochastic.gif" width="50%" align='left'>
 =============================================================================<br>
 
 
