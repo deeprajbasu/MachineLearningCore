@@ -10,5 +10,5 @@
 
 =============================================================================
 
-<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/bfs" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/dfs.gif" width="50%" align='right'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_1.gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/polyreg/3.gif" width="50%" align='right'>
+<img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/bfs.gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/dfs.gif" width="50%" align='right'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_1.gif" width="50%" align='left'><img src="https://github.com/deeprajbasu/MachineLearningCore/blob/main/outs/iterative_6.gif" width="50%" align='right'>
 
